@@ -43,8 +43,8 @@
 ### 🛠️ Github Analytics
 <p align="center" width="100vw">
 <a href="https://github.com/DigdoAji" width="100vw">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DigdoAji&show_icons=true&theme=algolia&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DigdoAji&layout=compact&hide_border=true&langs_count=8&theme=algolia"/>
+  <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DigdoAji&show_icons=true&theme=algolia&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DigdoAji&layout=compact&hide_border=true&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
