@@ -4,7 +4,7 @@
 
 <!-- Introduction -->
 <h2 align="center">
-    <samp>&gt; Hello World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px"></samp>
+    <samp>&gt; Hello World! <img src="https://slackmojis.com/emojis/65209-world-on-fire/download" height="25px"></samp>
 </h2>
 <p align="center">
   <samp>
