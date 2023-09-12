@@ -10,15 +10,13 @@
   <samp>
     My name is Digdo Aji Asrowi and welcome to my github profile
     <br>
-    <br>
     [ From South Borneo, Indonesia ]
     <br>
     [ Fresh Graduate Student, Information Technology @ Lambung Mangkurat University ]
-    <br>
-    <br>
-    📫 How to reach me: ⬇⬇
   </samp>
 </p>
+
+📫 How to reach me: ⬇⬇
 
 [![Linkedin Badge](https://img.shields.io/badge/-digdoajiasrowi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/digdoajiasrowi/)](https://www.linkedin.com/in/digdoajiasrowi/) [![Instagram Badge](https://img.shields.io/badge/-@digdoaji_02-DD2A7B?style=flat-square&labelColor=DD2A7B&logo=instagram&logoColor=white&link=https://instagram.com/digdoaji_02)](https://instagram.com/digdoaji_02) 
 
