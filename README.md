@@ -8,7 +8,7 @@
 </h2>
 <p align="center">
   <samp>
-    My name is Digdo Aji Asrowi and welcome to my github profile
+    My name is <b>Digdo Aji Asrowi</b> and welcome to my github profile
     <br>
     <br>
     [ From South Borneo, Indonesia ]
