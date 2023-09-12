@@ -22,7 +22,7 @@
 <a href="https://www.w3.org/html/" target="_blank"><img align="left" alt="HTML5 Logo" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>
 <a href="https://www.w3schools.com/css/" target="_blank"><img align="left" alt="CSS3 Logo" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></a>
 <a href="https://www.w3schools.com/js/" target="_blank"><img align="left" alt="Javascript Logo" width="26px" src="https://www.freepnglogos.com/uploads/javascript-png/js-logo-png-5.png" /></a>
-<a href="https://www.w3schools.com/python/" target="_blank"><img align="left" alt="Python Logo" width="26px" src="https://s3.dualstack.us-east-2.amazonaws.com/pytho…assets/media/community/logos/python-logo-only.png" /></a>
+<a href="https://www.w3schools.com/python/" target="_blank"><img align="left" alt="Python Logo" width="26px" src="https://w7.pngwing.com/pngs/140/948/png-transparen…ogo-programmer-fierce-python-s-cdr-angle-text.png" /></a>
 <br />
 <br />
 
