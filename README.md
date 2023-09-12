@@ -22,7 +22,7 @@
 <a href="https://www.w3.org/html/" target="_blank"><img align="left" alt="HTML5 Logo" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>
 <a href="https://www.w3schools.com/css/" target="_blank"><img align="left" alt="CSS3 Logo" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></a>
 <a href="https://www.w3schools.com/js/" target="_blank"><img align="left" alt="Javascript Logo" width="26px" src="https://www.freepnglogos.com/uploads/javascript-png/js-logo-png-5.png" /></a>
-<a href="https://www.w3schools.com/python/" target="_blank"><img align="left" alt="Python Logo" width="26px" src="https://assets.stickpng.com/images/5848152fcef1014c0b5e4967.png" /></a>
+<!-- <a href="https://www.w3schools.com/python/" target="_blank"><img align="left" alt="Python Logo" width="26px" src="https://assets.stickpng.com/images/5848152fcef1014c0b5e4967.png" /></a> -->
 <br />
 <br />
 
