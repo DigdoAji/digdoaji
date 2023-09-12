@@ -4,10 +4,14 @@
 
 <!-- Intro -->
 <h2 align="center">
-    <samp>&gt;Hello World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px"></samp>
+    <samp>&gt; Hello World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px"></samp>
 </h2>
 <p align="center">
     My name is Digdo Aji Asrowi and welcome to my github profile
+    <br>
+    [ From South Borneo, Indonesia ]
+    <br>
+    [ Fresh Graduate Student, Information Technology @ Lambung Mangkurat University]
 </p>
 
 <!-- <p align="left">
