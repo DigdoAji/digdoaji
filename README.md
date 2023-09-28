@@ -62,7 +62,7 @@
 
 ### 📫 Contact Me
 
-![Linkedin Badge](https://img.shields.io/badge/-digdoajiasrowi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/digdoajiasrowi/)(https://www.linkedin.com/in/digdoajiasrowi/) 
-![Instagram Badge](https://img.shields.io/badge/-@digdoaji_02-DD2A7B?style=flat-square&labelColor=DD2A7B&logo=instagram&logoColor=white&link=https://instagram.com/digdoaji_02)(https://instagram.com/digdoaji_02)
+[![Linkedin Badge](https://img.shields.io/badge/-digdoajiasrowi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/digdoajiasrowi/)](https://www.linkedin.com/in/digdoajiasrowi/) 
+[![Instagram Badge](https://img.shields.io/badge/-@digdoaji_02-DD2A7B?style=flat-square&labelColor=DD2A7B&logo=instagram&logoColor=white&link=https://instagram.com/digdoaji_02)](https://instagram.com/digdoaji_02)
 
 <!-- [![Gmail Badge](https://img.shields.io/badge/-hey@digdoaji.me-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hey@digdoaji.me)](mailto:hey@digdoaji.me) -->
