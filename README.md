@@ -69,4 +69,4 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/digdoajiasrowi/) 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/digdoaji_02)
-[![Portfolio](https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logo=About.me&logoColor=%23F7DF1E)](https://digdoajiasrowi.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/portfolio-%23323330?style=for-the-badge&logo=About.me&logoColor=white)](https://digdoajiasrowi.vercel.app/)
