@@ -68,9 +68,5 @@
 ### 📫 Contact Me
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/digdoajiasrowi/) 
-
-<!-- [![Linkedin](https://img.shields.io/badge/-digdoajiasrowi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/digdoajiasrowi/)](https://www.linkedin.com/in/digdoajiasrowi/) 
-[![Instagram](https://img.shields.io/badge/-@digdoaji_02-DD2A7B?style=flat-square&labelColor=DD2A7B&logo=instagram&logoColor=white&link=https://instagram.com/digdoaji_02)](https://instagram.com/digdoaji_02) -->
-
-
-<!-- [![Gmail Badge](https://img.shields.io/badge/-hey@digdoaji.me-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hey@digdoaji.me)](mailto:hey@digdoaji.me) -->
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/digdoaji_02)
+[![Portfolio](https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://digdoajiasrowi.vercel.app/)
